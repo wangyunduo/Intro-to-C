@@ -14,5 +14,5 @@ The significance of creating this repository to write this thing that I don't ev
 
 Limited to my knowledge level and to lower the threshold for reading, I will write in Chinese. And to exercise my English writing ability I will also attach an English version.
 
-Finally, I welcome readers to point out mistakes I made when using various language here, whether in using Chinese, English or C, so that I can correct them in time.
+Finally, I very welcome readers to point out mistakes I made when using various language here, whether in using Chinese, English or C, so that I can correct them in time.
 
