@@ -1,3 +1,6 @@
+* 前一节：没有了
+* 后一节：[在开始学习 C 语言前的准备](https://github.com/wangyunduo/Intro-to-C/blob/master/Lecture%200/0.md)
+
 # Introduction to C
 
 首先推荐一门慕课：[浙江大学 翁恺老师 程序设计入门——C 语言](http://www.icourse163.org/course/ZJU-199001?tid=235001)，在我高考结束的暑假就是看的这门课学习的 C 语言，也是从这里入门的程序设计。
